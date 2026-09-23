@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-	<strong>Web Development Student</strong><br />
-	<a href="https://github.com/aparkerjones">GitHub Profile</a> &bull; <a href="https://aparkerjones.github.io/wdd231/">Portfolio</a>
+	<strong>Web Development Student | Front-End Developer</strong><br />
+	<a href="https://github.com/aparkerjones">GitHub</a> &bull; <a href="https://www.linkedin.com/in/a-parker-jones">LinkedIn</a> &bull; <a href="https://aparkerjones.github.io/wdd231/">Portfolio</a>
 </p>
 
 ## About Me
